@@ -12,9 +12,9 @@
   - 🥇 **Hadiah Kecermerlangan Akademik** (Year 1 & Year 3)
  
     <div style="text-align: center;">
-  <img src="image1.jpg" width="500" style="margin-right: 10px; display: inline;">
-  <img src="image2.jpg" width="500" style="margin-right: 10px; display: inline;">
-  <img src="image3.jpg" width="500" style="margin-right: 10px; display: inline;">
+  <img src="Images/Image1.jpg" width="500" style="margin-right: 10px; display: inline;">
+  <img src="Images/Image2.jpg" width="500" style="margin-right: 10px; display: inline;">
+  <img src="Images/Image3.jpg" width="500" style="margin-right: 10px; display: inline;">
 </div>
  
 
