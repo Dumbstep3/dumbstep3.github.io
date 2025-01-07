@@ -9,7 +9,14 @@
   - Universiti Malaysia Perlis (UniMAP)  
   - **CGPA:** 3.89 (Year 1 Semester 1 to Year 3 Semester 2)  
   - 🏆 **Dean List Award** (6 semesters, Year 1 Semester 1 to Year 3 Semester 2)  
-  - 🥇 **Hadiah Kecermerlangan Akademik** (Year 1 & Year 3)  
+  - 🥇 **Hadiah Kecermerlangan Akademik** (Year 1 & Year 3)
+ 
+    <div style="text-align: center;">
+  <img src="image1.jpg" width="500" style="margin-right: 10px; display: inline;">
+  <img src="image2.jpg" width="500" style="margin-right: 10px; display: inline;">
+  <img src="image3.jpg" width="500" style="margin-right: 10px; display: inline;">
+</div>
+ 
 
 - 🏫 **STPM & SPM**  
   - SMJK Chung Ling  
