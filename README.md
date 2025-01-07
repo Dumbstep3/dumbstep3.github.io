@@ -1,6 +1,6 @@
 #Chemical Engineering Student
 <div style="text-align: center;">
-  <img src="Images/Image1.jpg" width="500" style="margin-right: 10px; display: inline;">
+  <img src="Images/Untitled_Artwork (1).png" width="500" style="margin-right: 10px; display: inline;">
 </div>
 ### About Me
 - 💼 **Self-motivated Chemical Engineering Technology student actively seeking an internship** in the manufacturing and processing industry from **17 February 2025 to 03 August 2025 (24 weeks)**.  
