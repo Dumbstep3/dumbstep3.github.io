@@ -53,9 +53,4 @@
 - 🗣️ Chinese  
 - 🗣️ English  
 
-### References
-- **Dr. Ismariza Ismail**  
-  - Industrial Training Coordinator, Faculty of Chemical Engineering & Technology, UniMAP  
-  - ismariza@unimap.edu.my | 0126475992  
 
-Feel free to modify or adjust these details further! Let me know if you need help with anything else.
