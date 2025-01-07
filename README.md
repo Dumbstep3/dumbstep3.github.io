@@ -1,5 +1,7 @@
 #Chemical Engineering Student
-
+<div style="text-align: center;">
+  <img src="Images/Image1.jpg" width="500" style="margin-right: 10px; display: inline;">
+</div>
 ### About Me
 - 💼 **Self-motivated Chemical Engineering Technology student actively seeking an internship** in the manufacturing and processing industry from **17 February 2025 to 03 August 2025 (24 weeks)**.  
 - ⚙️ Proficient in theoretical and practical knowledge of chemical and material engineering, along with engineering tools.  
@@ -11,11 +13,7 @@
   - 🏆 **Dean List Award** (6 semesters, Year 1 Semester 1 to Year 3 Semester 2)  
   - 🥇 **Hadiah Kecermerlangan Akademik** (Year 1 & Year 3)
  
-    <div style="text-align: center;">
-  <img src="Images/Image1.jpg" width="500" style="margin-right: 10px; display: inline;">
-  <img src="Images/Image2.jpg" width="500" style="margin-right: 10px; display: inline;">
-  <img src="Images/Image3.jpg" width="500" style="margin-right: 10px; display: inline;">
-</div>
+    
  
 
 - 🏫 **STPM & SPM**  
@@ -36,12 +34,14 @@
   - Created **PFD** and **P&ID** diagrams using AutoCAD and Microsoft Visio.  
 
 ### Skills
-- 🚀 **Engineering Tools**: MATLAB, Simulink, Aspen HYSYS  
-- 🔧 **Equipment Operation**: Valve, Reactor, Heat Exchanger, Pump, Distillation Column, Packed Mixer Settlers  
-- 📊 **Data Analysis**: OriginPro, IBM SPSS  
-- ✍️ **Engineering Drawing**: PFD, P&ID, AutoCAD, Microsoft Visio  
-- 🛠️ **Microsoft Office**: Word, Excel, PowerPoint, OneNote, Outlook  
-- 📜 **Food Regulation & Certification**: HALAL, GHP, GMP, HACCP, ISO  
+| **Section**           | **Details**                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| 💼 **About Me**        | Self-motivated chemical engineering student seeking a 2025 internship.     |
+| 🎓 **Education**       | Bachelor's in Chemical Engineering Technology (CGPA: 3.89)                |
+| 🏆 **Achievements**    | Dean's List (6 semesters), Infographic Competition Runner-Up.             |
+| 🧪 **Projects**        | - Catalysis Research<br>- Plant Design<br>- Service Learning Kampung Wai |
+| 🚀 **Skills**          | MATLAB, Simulink, Aspen HYSYS, AutoCAD, MS Office, OriginPro, IBM SPSS    |
+
 
 ### Certifications
 - 📜 **Six Sigma White Belt** (CSSC)  
